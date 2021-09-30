@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "889e4612-981a-df4a-96b2-cb596638148e++686",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "889e4612-981a-df4a-96b2-cb596638148e++686" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FD5B115EE7A3D3F8BA4B7F820F332BCE90919E78" : 9223372036854775807,
+    "889e4612-981a-df4a-96b2-cb596638148e++686" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF52EA1F-EBC1-4257-818A-71502C5C0A28",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FD5B115EE7A3D3F8BA4B7F820F332BCE90919E78" : "Smarter\/Smarter\/Libraries\/APAddressBook\/",
+    "889e4612-981a-df4a-96b2-cb596638148e++686" : "Smarter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Smarter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Smarter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/pd1-srv.hanayonghe.com:81\/svn\/JongYH_Job",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "889e4612-981a-df4a-96b2-cb596638148e++686"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alterplay\/APAddressBook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD5B115EE7A3D3F8BA4B7F820F332BCE90919E78"
+    }
+  ]
+}

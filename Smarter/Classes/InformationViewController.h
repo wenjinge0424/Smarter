@@ -1,0 +1,13 @@
+//
+//  InformationViewController.h
+//  Smarter
+//
+//  Created by gao on 8/31/17.
+//  Copyright © 2017 developer. All rights reserved.
+//
+
+#import "SuperViewController.h"
+
+@interface InformationViewController : UIViewController
+@property (nonatomic) int type;
+@end
